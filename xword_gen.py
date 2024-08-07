@@ -1,6 +1,6 @@
 """
 xword_gen.py
-Crossword puzzle generator for lightning round education games. For Moonlight Focus.
+Crossword puzzle generator. Originally for lightning round education games for Moonlight Focus.
 Nate Cadicamo
 5 August 2024
 
